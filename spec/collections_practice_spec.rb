@@ -33,19 +33,19 @@ describe 'collections practice vol 2.' do
   let(:merged_data) {
     [
         {
-             :first_name => "blake",
+            :first_name => "blake",
             :awesomeness => 10,
-                 :height => "74",
-              :last_name => "johnson",
-                  :motto => "Have a koala-ty day!"
+            :height => "74",
+            :last_name => "johnson",
+            :motto => "Have a koala-ty day!"
 
         },
         {
-             :first_name => "ashley",
+            :first_name => "ashley",
             :awesomeness => 9,
-                 :height => 60,
-              :last_name => "dubs",
-                  :motto => "I dub thee, 'Lady Brett Ashley'."
+            :height => 60,
+            :last_name => "dubs",
+            :motto => "I dub thee, 'Lady Brett Ashley'."
 
         }
     ]
